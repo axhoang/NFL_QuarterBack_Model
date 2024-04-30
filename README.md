@@ -51,4 +51,4 @@ Interested in contributing? Great! Here are a few ways you can:
 
 ## 🔗 Connect
 
-Reach out to me on [LinkedIn](www.linkedin.com/in/axhoang9) or follow me on [GitHub](https://github.com/axhoang) to connect and collaborate!
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/axhoang9) or follow me on [GitHub](https://github.com/axhoang) to connect and collaborate!
